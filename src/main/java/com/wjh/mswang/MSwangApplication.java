@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class MSwangApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(MSwangApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(MSwangApplication.class, args);
+    }
 
 }
